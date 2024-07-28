@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Awnishprasad99/Namastay-react#readme",
   "devDependencies": {
     "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "react-dom": "^18.3.1"
   }
 }
